@@ -5,7 +5,7 @@
 # kelas : 20.TI.B1
 -------------------------------------------------------------------
 source code untuk pembuatan basic paragraf
-![source code](New folder\paragraf standard.jpg)
+![source code](\paragraf standard.jpg)
 
 jika sudah coba buka file di browser dan kira-kira seperti gambar dibawah Ini
-![gambar jadi](New folder/ hasil paragraf standard.jpg)
+![gambar jadi](New folder/ hasil paragraf sta\
