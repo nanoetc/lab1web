@@ -5,8 +5,8 @@
 # kelas : 20.TI.B1
 -------------------------------------------------------------------
 untuk source code tersedia
-![source code utama](https://github.com/nanoetc/lab1web/blob/main/lab1WEB.html)
-![source code halaman2](https://github.com/nanoetc/lab1web/blob/main/halaman2.html)
+[source code utama](https://github.com/nanoetc/lab1web/blob/main/lab1WEB.html)
+[source code halaman2](https://github.com/nanoetc/lab1web/blob/main/halaman2.html)
 -------------------------------------------------------------------
 source code untuk pembuatan basic paragraf
 ![source code](https://github.com/nanoetc/lab1web/blob/main/paragraf%20standard.jpg)
