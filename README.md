@@ -6,3 +6,5 @@
 -------------------------------------------------------------------
 source code untuk pembuatan basic paragraf
 ![source code](paragraf standard.jpg)
+jika sudah coba buka file di browser dan kira-kira seperti gambar dibawah Ini
+![gambar jadi](hasil paragraf standard.jpg)
